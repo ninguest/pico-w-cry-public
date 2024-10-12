@@ -59,7 +59,7 @@ Some Pico W projects in C SDK.
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## References
 
 - [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)
 
