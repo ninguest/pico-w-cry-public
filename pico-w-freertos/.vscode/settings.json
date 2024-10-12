@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "task.h": "c",
+        "httpd.h": "c",
+        "sys.h": "c"
+    }
+}
