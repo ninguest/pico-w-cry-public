@@ -67,4 +67,6 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 
 ## YouTube Demo
 
-<iframe width="560" height="315" src="https://youtu.be/pG0NRNOnaoA" frameborder="0" allowfullscreen></iframe>
+#### [PICO W USB Serial Communication DEMO 🔗](https://www.youtube.com/watch?v=pG0NRNOnaoA)
+
+[![PICO W USB Serial Communication DEMO](https://img.youtube.com/vi/pG0NRNOnaoA/maxresdefault.jpg)](https://www.youtube.com/watch?v=pG0NRNOnaoA)
